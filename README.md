@@ -9,3 +9,11 @@
   未来这个README.md文件随时都有可能更新......
   
   This "README.md" file will be probably updated at anytime in the future......
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ ## Latest Notification/最新通知
+ 
+   由于最新版日冕MOD对遭遇战AI的更新，建议各位玩家玩任何日冕MOD遭遇战战役地图选择遭遇战AI难度时最高只选择到第3等级难度即可（日冕MOD遭遇战AI的第3难度为“凶残”，第4难度也就是最高难度为“地狱”），不要让敌方遭遇战AI和遭遇战AI队友地狱级的疯狂建造、爆兵和攻击瘫痪了你们的电脑和CPU！
+   
+   With the recent update of Corona MOD on skirmish AI, the 3rd level difficulty is already enough for every Corona MOD gamers to play any skirmish campaign map on Corona MOD (the 3rd level difficulty of skirmish AI in Corona MOD is "Brutal", the 4th one is "Hellish"). Don't let the runaway constructions, units and attacks from enemies' AIs and allies' AIs crash your computers and CPUs!
