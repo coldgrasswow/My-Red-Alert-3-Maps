@@ -1,0 +1,3 @@
+这个记事本只是一个用于标记文件夹并方便执行Git指令的记事本文件。
+
+This is a note file only for marking folders and executing Git commands expediently.
